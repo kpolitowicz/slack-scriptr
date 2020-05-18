@@ -8,5 +8,5 @@ This is a sample slack-ruby-bot-server with ActiveRecord.
 bundle install
 rake db:create db:migrate
 RAILS_ENV=test rake db:migrate
-rackup
+bundle exec rackup
 ```
