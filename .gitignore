@@ -57,3 +57,6 @@ build-iPhoneSimulator/
 
 # log files
 /log/
+
+# rbenv
+.ruby-version
